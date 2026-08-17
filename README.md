@@ -1,6 +1,5 @@
-!!! Note About Me
-  - 19 y/o 👧
-  - In long relationship ❤️
-  - Shark Lover 🦈
+Hi there 👋
 
-**test**
+- 19 y/o 👧
+- In long relationship ❤️
+- Shark Lover 🦈
